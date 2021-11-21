@@ -20,5 +20,8 @@ The purpose of this challenge is to rework the code provided in order to guarant
 ## Website
 https://marissann11.github.io/challenge-one/
 
+## Screenshot
+![Screenshot](./Develop/assets/images/final-screenshot.png "Screenshot")
+
 ## Contribution
 Made with &hearts; by Marissa Wilhite
