@@ -1,3 +1,5 @@
+/* full page formatting begin */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,14 @@
 body {
     background-color: #d9dcd6;
 }
+
+p {
+    font-size: 16px;
+}
+
+/* full pages formatting end */
+
+/* header formatting begins here */
 
 header {
     padding: 20px;
@@ -42,6 +52,10 @@ a {
     text-decoration: none;
 }
 
+/* header formatting ends */
+
+/* styling for hero image start*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -51,9 +65,9 @@ a {
     background-position: center;
 }
 
-p {
-    font-size: 16px;
-}
+/* hero styling end */
+
+/* content formatting begins*/
 
 .content {
     width: 75%;
@@ -89,6 +103,10 @@ p {
     margin-left: 25px;
 }
 
+/* content formatting end */
+
+/* benefits formatting begin */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +134,10 @@ p {
     max-width: 150px;
 }
 
+/* benefits formatting end */
+
+/* footer formatting begin */
+
 footer {
     padding: 30px;
     clear: both;
@@ -126,3 +148,5 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+
+/* footer formatting end */
